@@ -2,7 +2,7 @@
 <?php
 
 $name="<h1> TUMWIJUKYE IVAN </h2>";
-$DOB="<h2>11/09/2002</h2>";
+$DOB="<h2>29/10/2000</h2>";
 $Address="<h2>KOKOBA MBARARA</h2>";
 $CYear=2024;
 $BYear=2000;
